@@ -1,0 +1,6 @@
+[submodule "support/connect"]
+	path = support/connect
+	url = git://github.com/senchalabs/connect.git
+[submodule "support/commonjs-utils"]
+	path = support/commonjs-utils
+	url = git://github.com/kriszyp/commonjs-utils.git
