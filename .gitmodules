@@ -4,3 +4,6 @@
 [submodule "support/commonjs-utils"]
 	path = support/commonjs-utils
 	url = git://github.com/kriszyp/commonjs-utils.git
+[submodule "support/connect-auth"]
+	path = support/connect-auth
+	url = git://github.com/ciaranj/connect-auth.git
